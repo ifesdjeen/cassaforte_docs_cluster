@@ -1,0 +1,3 @@
+[submodule "cookbooks/cassandra"]
+	path = cookbooks/cassandra
+	url = git@github.com:michaelklishin/cassandra-chef-cookbook.git
